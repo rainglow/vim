@@ -2,7 +2,7 @@
 
 ## VIM (BETA)
 
-Rainglow is a collection of color themes for a number of different editors and platforms. This repository consists of **180+ syntax and UI themes** for [VIM](http://www.vim.org/).
+Rainglow is a collection of color themes for a number of different editors and platforms. This repository consists of **250+ syntax and UI themes** for [VIM](http://www.vim.org/).
 
 <a href="https://raw.githubusercontent.com/rainglow/examples/master/vim/gloom-contrast.png" target="_blank"><img src="https://raw.githubusercontent.com/rainglow/examples/master/vim/gloom-contrast.png" width="340" /></a><a href="https://raw.githubusercontent.com/rainglow/examples/master/vim/kiwi.png" target="_blank"><img src="https://raw.githubusercontent.com/rainglow/examples/master/vim/kiwi.png" width="340" /></a><a href="https://raw.githubusercontent.com/rainglow/examples/master/vim/piggy.png" target="_blank"><img src="https://raw.githubusercontent.com/rainglow/examples/master/vim/piggy.png" width="340" /></a><a href="https://raw.githubusercontent.com/rainglow/examples/master/vim/earthsong.png" target="_blank"><img src="https://raw.githubusercontent.com/rainglow/examples/master/vim/earthsong.png" width="340" /></a>
 
