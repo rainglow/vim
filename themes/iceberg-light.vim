@@ -28,7 +28,7 @@ let g:colors_name = "Iceberg Light (rainglow)"
 
 hi Cursor         guifg=#bdd6db guibg=#222222 gui=NONE
 hi Visual         guifg=#ffffff guibg=#2d8da1 gui=NONE
-hi CursorLine     guifg=NONE guibg=#afc7cc gui=NONE
+hi CursorLine     guifg=NONE guibg=#c7dce0 gui=NONE
 hi CursorLineNr   guifg=#ffffff guibg=#a6c8ce gui=NONE
 hi CursorColumn   guifg=NONE guibg=#a6c8ce gui=NONE
 hi ColorColumn    guifg=NONE guibg=#9cc1c9 gui=NONE
@@ -64,7 +64,7 @@ hi Label          guifg=#2d8da1 guibg=NONE gui=NONE
 hi NonText        guifg=#000000 guibg=#b6d2d7 gui=NONE
 hi Number         guifg=#2d8da1 guibg=NONE gui=NONE
 hi Operator       guifg=#323b3d guibg=NONE gui=NONE
-hi PreProc        guifg=#5e757a guibg=NONE gui=NONE
+hi PreProc        guifg=#000000 guibg=NONE gui=NONE
 hi Special        guifg=#323b3d guibg=NONE gui=NONE
 hi SpecialKey     guifg=#323b3d guibg=#499fbc gui=NONE
 hi Statement      guifg=#7ea3af guibg=NONE gui=NONE
@@ -72,7 +72,7 @@ hi StorageClass   guifg=#2d8da1 guibg=NONE gui=NONE
 hi String         guifg=#2d8da1 guibg=NONE gui=NONE
 hi Tag            guifg=#499fbc guibg=NONE gui=NONE
 hi Title          guifg=#499fbc guibg=NONE gui=bold
-hi Todo           guifg=#5e757a guibg=NONE gui=inverse,bold
+hi Todo           guifg=#000000 guibg=NONE gui=inverse,bold
 hi Type           guifg=NONE guibg=NONE gui=NONE
 hi Underlined     guifg=NONE guibg=NONE gui=underline
 

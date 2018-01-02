@@ -28,7 +28,7 @@ let g:colors_name = "Patriot Light (rainglow)"
 
 hi Cursor         guifg=#ffffff guibg=#222222 gui=NONE
 hi Visual         guifg=#ffffff guibg=#de333c gui=NONE
-hi CursorLine     guifg=NONE guibg=#f5f5f5 gui=NONE
+hi CursorLine     guifg=NONE guibg=#ffffff gui=NONE
 hi CursorLineNr   guifg=#ffffff guibg=#ededed gui=NONE
 hi CursorColumn   guifg=NONE guibg=#ededed gui=NONE
 hi ColorColumn    guifg=NONE guibg=#e6e6e6 gui=NONE
@@ -64,7 +64,7 @@ hi Label          guifg=#3790de guibg=NONE gui=NONE
 hi NonText        guifg=#000000 guibg=#fafafa gui=NONE
 hi Number         guifg=#2e6fd9 guibg=NONE gui=NONE
 hi Operator       guifg=#333333 guibg=NONE gui=NONE
-hi PreProc        guifg=#888888 guibg=NONE gui=NONE
+hi PreProc        guifg=#000000 guibg=NONE gui=NONE
 hi Special        guifg=#333333 guibg=NONE gui=NONE
 hi SpecialKey     guifg=#333333 guibg=#de333c gui=NONE
 hi Statement      guifg=#aaaaaa guibg=NONE gui=NONE
@@ -72,7 +72,7 @@ hi StorageClass   guifg=#2e6fd9 guibg=NONE gui=NONE
 hi String         guifg=#3790de guibg=NONE gui=NONE
 hi Tag            guifg=#de333c guibg=NONE gui=NONE
 hi Title          guifg=#de333c guibg=NONE gui=bold
-hi Todo           guifg=#888888 guibg=NONE gui=inverse,bold
+hi Todo           guifg=#000000 guibg=NONE gui=inverse,bold
 hi Type           guifg=NONE guibg=NONE gui=NONE
 hi Underlined     guifg=NONE guibg=NONE gui=underline
 

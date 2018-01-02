@@ -28,7 +28,7 @@ let g:colors_name = "Solarflare Contrast (rainglow)"
 
 hi Cursor         guifg=#000000 guibg=#f8f8f0 gui=NONE
 hi Visual         guifg=#ffffff guibg=#ff4e50 gui=NONE
-hi CursorLine     guifg=NONE guibg=#151515 gui=NONE
+hi CursorLine     guifg=NONE guibg=#080808 gui=NONE
 hi CursorLineNr   guifg=#4d4d4d guibg=#000000 gui=NONE
 hi CursorColumn   guifg=NONE guibg=#000000 gui=NONE
 hi ColorColumn    guifg=NONE guibg=#000000 gui=NONE
@@ -64,7 +64,7 @@ hi Label          guifg=#ede574 guibg=NONE gui=NONE
 hi NonText        guifg=#827e75 guibg=#000000 gui=NONE
 hi Number         guifg=#ff4e50 guibg=NONE gui=NONE
 hi Operator       guifg=#e3e2e0 guibg=NONE gui=NONE
-hi PreProc        guifg=#9b9b9b guibg=NONE gui=NONE
+hi PreProc        guifg=#000000 guibg=NONE gui=NONE
 hi Special        guifg=#e3e2e0 guibg=NONE gui=NONE
 hi SpecialKey     guifg=#e3e2e0 guibg=#fc913a gui=NONE
 hi Statement      guifg=#ff4e50 guibg=NONE gui=NONE
@@ -72,7 +72,7 @@ hi StorageClass   guifg=#ff4e50 guibg=NONE gui=NONE
 hi String         guifg=#ede574 guibg=NONE gui=NONE
 hi Tag            guifg=#fc913a guibg=NONE gui=NONE
 hi Title          guifg=#fc913a guibg=NONE gui=bold
-hi Todo           guifg=#9b9b9b guibg=NONE gui=inverse,bold
+hi Todo           guifg=#000000 guibg=NONE gui=inverse,bold
 hi Type           guifg=NONE guibg=NONE gui=NONE
 hi Underlined     guifg=NONE guibg=NONE gui=underline
 

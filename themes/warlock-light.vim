@@ -28,7 +28,7 @@ let g:colors_name = "Warlock Light (rainglow)"
 
 hi Cursor         guifg=#ffffff guibg=#222222 gui=NONE
 hi Visual         guifg=#ffffff guibg=#725ac1 gui=NONE
-hi CursorLine     guifg=NONE guibg=#fcfcfc gui=NONE
+hi CursorLine     guifg=NONE guibg=#ffffff gui=NONE
 hi CursorLineNr   guifg=#ffffff guibg=#ededed gui=NONE
 hi CursorColumn   guifg=NONE guibg=#ededed gui=NONE
 hi ColorColumn    guifg=NONE guibg=#e6e6e6 gui=NONE
@@ -64,7 +64,7 @@ hi Label          guifg=#f78362 guibg=NONE gui=NONE
 hi NonText        guifg=#000000 guibg=#fafafa gui=NONE
 hi Number         guifg=#f7a261 guibg=NONE gui=NONE
 hi Operator       guifg=#4b4060 guibg=NONE gui=NONE
-hi PreProc        guifg=#888888 guibg=NONE gui=NONE
+hi PreProc        guifg=#000000 guibg=NONE gui=NONE
 hi Special        guifg=#4b4060 guibg=NONE gui=NONE
 hi SpecialKey     guifg=#4b4060 guibg=#f46036 gui=NONE
 hi Statement      guifg=#b67ae8 guibg=NONE gui=NONE
@@ -72,7 +72,7 @@ hi StorageClass   guifg=#7eb1dd guibg=NONE gui=NONE
 hi String         guifg=#f78362 guibg=NONE gui=NONE
 hi Tag            guifg=#f46036 guibg=NONE gui=NONE
 hi Title          guifg=#f46036 guibg=NONE gui=bold
-hi Todo           guifg=#888888 guibg=NONE gui=inverse,bold
+hi Todo           guifg=#000000 guibg=NONE gui=inverse,bold
 hi Type           guifg=NONE guibg=NONE gui=NONE
 hi Underlined     guifg=NONE guibg=NONE gui=underline
 

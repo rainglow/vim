@@ -28,7 +28,7 @@ let g:colors_name = "Zacks Contrast (rainglow)"
 
 hi Cursor         guifg=#000000 guibg=#f8f8f0 gui=NONE
 hi Visual         guifg=#ffffff guibg=#9c7ddb gui=NONE
-hi CursorLine     guifg=NONE guibg=#151515 gui=NONE
+hi CursorLine     guifg=NONE guibg=#080808 gui=NONE
 hi CursorLineNr   guifg=#4d4d4d guibg=#000000 gui=NONE
 hi CursorColumn   guifg=NONE guibg=#000000 gui=NONE
 hi ColorColumn    guifg=NONE guibg=#000000 gui=NONE
@@ -64,7 +64,7 @@ hi Label          guifg=#bcd42a guibg=NONE gui=NONE
 hi NonText        guifg=#8a8a8a guibg=#000000 gui=NONE
 hi Number         guifg=#bcd42a guibg=NONE gui=NONE
 hi Operator       guifg=#f0f0f0 guibg=NONE gui=NONE
-hi PreProc        guifg=#afafaf guibg=NONE gui=NONE
+hi PreProc        guifg=#000000 guibg=NONE gui=NONE
 hi Special        guifg=#f0f0f0 guibg=NONE gui=NONE
 hi SpecialKey     guifg=#f0f0f0 guibg=#9c7ddb gui=NONE
 hi Statement      guifg=#ff6a38 guibg=NONE gui=NONE
@@ -72,7 +72,7 @@ hi StorageClass   guifg=#ff6a38 guibg=NONE gui=NONE
 hi String         guifg=#bcd42a guibg=NONE gui=NONE
 hi Tag            guifg=#9c7ddb guibg=NONE gui=NONE
 hi Title          guifg=#9c7ddb guibg=NONE gui=bold
-hi Todo           guifg=#afafaf guibg=NONE gui=inverse,bold
+hi Todo           guifg=#000000 guibg=NONE gui=inverse,bold
 hi Type           guifg=NONE guibg=NONE gui=NONE
 hi Underlined     guifg=NONE guibg=NONE gui=underline
 

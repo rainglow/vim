@@ -28,7 +28,7 @@ let g:colors_name = "Hyrule (rainglow)"
 
 hi Cursor         guifg=#2d2c2b guibg=#f8f8f0 gui=NONE
 hi Visual         guifg=#ffffff guibg=#569e16 gui=NONE
-hi CursorLine     guifg=NONE guibg=#3d3934 gui=NONE
+hi CursorLine     guifg=NONE guibg=#353432 gui=NONE
 hi CursorLineNr   guifg=#7b7876 guibg=#1b1a1a gui=NONE
 hi CursorColumn   guifg=NONE guibg=#1b1a1a gui=NONE
 hi ColorColumn    guifg=NONE guibg=#131212 gui=NONE
@@ -64,7 +64,7 @@ hi Label          guifg=#ce830d guibg=NONE gui=NONE
 hi NonText        guifg=#507952 guibg=#282726 gui=NONE
 hi Number         guifg=#f5c504 guibg=NONE gui=NONE
 hi Operator       guifg=#c0d5c1 guibg=NONE gui=NONE
-hi PreProc        guifg=#9e9a98 guibg=NONE gui=NONE
+hi PreProc        guifg=#000000 guibg=NONE gui=NONE
 hi Special        guifg=#c0d5c1 guibg=NONE gui=NONE
 hi SpecialKey     guifg=#c0d5c1 guibg=#f5c504 gui=NONE
 hi Statement      guifg=#90c93f guibg=NONE gui=NONE
@@ -72,7 +72,7 @@ hi StorageClass   guifg=#569e16 guibg=NONE gui=NONE
 hi String         guifg=#ce830d guibg=NONE gui=NONE
 hi Tag            guifg=#f5c504 guibg=NONE gui=NONE
 hi Title          guifg=#f5c504 guibg=NONE gui=bold
-hi Todo           guifg=#9e9a98 guibg=NONE gui=inverse,bold
+hi Todo           guifg=#000000 guibg=NONE gui=inverse,bold
 hi Type           guifg=NONE guibg=NONE gui=NONE
 hi Underlined     guifg=NONE guibg=NONE gui=underline
 

@@ -28,7 +28,7 @@ let g:colors_name = "Arstotzka Light (rainglow)"
 
 hi Cursor         guifg=#ffffff guibg=#222222 gui=NONE
 hi Visual         guifg=#ffffff guibg=#516b6b gui=NONE
-hi CursorLine     guifg=NONE guibg=#eeeeee gui=NONE
+hi CursorLine     guifg=NONE guibg=#ffffff gui=NONE
 hi CursorLineNr   guifg=#ffffff guibg=#ededed gui=NONE
 hi CursorColumn   guifg=NONE guibg=#ededed gui=NONE
 hi ColorColumn    guifg=NONE guibg=#e6e6e6 gui=NONE
@@ -64,7 +64,7 @@ hi Label          guifg=#7ebcaa guibg=NONE gui=NONE
 hi NonText        guifg=#000000 guibg=#fafafa gui=NONE
 hi Number         guifg=#7ebcaa guibg=NONE gui=NONE
 hi Operator       guifg=#333333 guibg=NONE gui=NONE
-hi PreProc        guifg=#aaaaaa guibg=NONE gui=NONE
+hi PreProc        guifg=#000000 guibg=NONE gui=NONE
 hi Special        guifg=#333333 guibg=NONE gui=NONE
 hi SpecialKey     guifg=#333333 guibg=#a2a797 gui=NONE
 hi Statement      guifg=#a2a797 guibg=NONE gui=NONE
@@ -72,7 +72,7 @@ hi StorageClass   guifg=#516b6b guibg=NONE gui=NONE
 hi String         guifg=#7ebcaa guibg=NONE gui=NONE
 hi Tag            guifg=#a2a797 guibg=NONE gui=NONE
 hi Title          guifg=#a2a797 guibg=NONE gui=bold
-hi Todo           guifg=#aaaaaa guibg=NONE gui=inverse,bold
+hi Todo           guifg=#000000 guibg=NONE gui=inverse,bold
 hi Type           guifg=NONE guibg=NONE gui=NONE
 hi Underlined     guifg=NONE guibg=NONE gui=underline
 

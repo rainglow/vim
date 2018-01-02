@@ -28,7 +28,7 @@ let g:colors_name = "Tonic Contrast (rainglow)"
 
 hi Cursor         guifg=#111314 guibg=#f8f8f0 gui=NONE
 hi Visual         guifg=#ffffff guibg=#75a1a4 gui=NONE
-hi CursorLine     guifg=NONE guibg=#181a1c gui=NONE
+hi CursorLine     guifg=NONE guibg=#181b1c gui=NONE
 hi CursorLineNr   guifg=#576267 guibg=#010101 gui=NONE
 hi CursorColumn   guifg=NONE guibg=#010101 gui=NONE
 hi ColorColumn    guifg=NONE guibg=#000000 gui=NONE
@@ -64,7 +64,7 @@ hi Label          guifg=#b8cd44 guibg=NONE gui=NONE
 hi NonText        guifg=#888888 guibg=#0c0e0e gui=NONE
 hi Number         guifg=#b8cd44 guibg=NONE gui=NONE
 hi Operator       guifg=#eeeeee guibg=NONE gui=NONE
-hi PreProc        guifg=#67757a guibg=NONE gui=NONE
+hi PreProc        guifg=#000000 guibg=NONE gui=NONE
 hi Special        guifg=#eeeeee guibg=NONE gui=NONE
 hi SpecialKey     guifg=#eeeeee guibg=#75a1a4 gui=NONE
 hi Statement      guifg=#ef6e44 guibg=NONE gui=NONE
@@ -72,7 +72,7 @@ hi StorageClass   guifg=#b8cd44 guibg=NONE gui=NONE
 hi String         guifg=#b8cd44 guibg=NONE gui=NONE
 hi Tag            guifg=#75a1a4 guibg=NONE gui=NONE
 hi Title          guifg=#75a1a4 guibg=NONE gui=bold
-hi Todo           guifg=#67757a guibg=NONE gui=inverse,bold
+hi Todo           guifg=#000000 guibg=NONE gui=inverse,bold
 hi Type           guifg=NONE guibg=NONE gui=NONE
 hi Underlined     guifg=NONE guibg=NONE gui=underline
 

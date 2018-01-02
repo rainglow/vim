@@ -28,7 +28,7 @@ let g:colors_name = "Shrek Contrast (rainglow)"
 
 hi Cursor         guifg=#000000 guibg=#f8f8f0 gui=NONE
 hi Visual         guifg=#ffffff guibg=#857a5e gui=NONE
-hi CursorLine     guifg=NONE guibg=#111111 gui=NONE
+hi CursorLine     guifg=NONE guibg=#080808 gui=NONE
 hi CursorLineNr   guifg=#4d4d4d guibg=#000000 gui=NONE
 hi CursorColumn   guifg=NONE guibg=#000000 gui=NONE
 hi ColorColumn    guifg=NONE guibg=#000000 gui=NONE
@@ -64,7 +64,7 @@ hi Label          guifg=#81e911 guibg=NONE gui=NONE
 hi NonText        guifg=#999999 guibg=#000000 gui=NONE
 hi Number         guifg=#81e911 guibg=NONE gui=NONE
 hi Operator       guifg=#ffffff guibg=NONE gui=NONE
-hi PreProc        guifg=#777777 guibg=NONE gui=NONE
+hi PreProc        guifg=#000000 guibg=NONE gui=NONE
 hi Special        guifg=#ffffff guibg=NONE gui=NONE
 hi SpecialKey     guifg=#ffffff guibg=#b2de62 gui=NONE
 hi Statement      guifg=#bfb59b guibg=NONE gui=NONE
@@ -72,7 +72,7 @@ hi StorageClass   guifg=#857a5e guibg=NONE gui=NONE
 hi String         guifg=#81e911 guibg=NONE gui=NONE
 hi Tag            guifg=#b2de62 guibg=NONE gui=NONE
 hi Title          guifg=#b2de62 guibg=NONE gui=bold
-hi Todo           guifg=#777777 guibg=NONE gui=inverse,bold
+hi Todo           guifg=#000000 guibg=NONE gui=inverse,bold
 hi Type           guifg=NONE guibg=NONE gui=NONE
 hi Underlined     guifg=NONE guibg=NONE gui=underline
 

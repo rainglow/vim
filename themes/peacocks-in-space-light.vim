@@ -28,7 +28,7 @@ let g:colors_name = "Peacocks In Space Light (rainglow)"
 
 hi Cursor         guifg=#dee3ec guibg=#2b303b gui=NONE
 hi Visual         guifg=#ffffff guibg=#26a6a6 gui=NONE
-hi CursorLine     guifg=NONE guibg=#ced4e0 gui=NONE
+hi CursorLine     guifg=NONE guibg=#e8ebf2 gui=NONE
 hi CursorLineNr   guifg=#ffffff guibg=#c7d0df gui=NONE
 hi CursorColumn   guifg=NONE guibg=#c7d0df gui=NONE
 hi ColorColumn    guifg=NONE guibg=#bec8d9 gui=NONE
@@ -64,7 +64,7 @@ hi Label          guifg=#a6b73a guibg=NONE gui=NONE
 hi NonText        guifg=#000000 guibg=#d8dde8 gui=NONE
 hi Number         guifg=#a6b73a guibg=NONE gui=NONE
 hi Operator       guifg=#2b303b guibg=NONE gui=NONE
-hi PreProc        guifg=#8998b9 guibg=NONE gui=NONE
+hi PreProc        guifg=#000000 guibg=NONE gui=NONE
 hi Special        guifg=#2b303b guibg=NONE gui=NONE
 hi SpecialKey     guifg=#2b303b guibg=#26a6a6 gui=NONE
 hi Statement      guifg=#26a6a6 guibg=NONE gui=NONE
@@ -72,7 +72,7 @@ hi StorageClass   guifg=#ff5d38 guibg=NONE gui=NONE
 hi String         guifg=#a6b73a guibg=NONE gui=NONE
 hi Tag            guifg=#26a6a6 guibg=NONE gui=NONE
 hi Title          guifg=#26a6a6 guibg=NONE gui=bold
-hi Todo           guifg=#8998b9 guibg=NONE gui=inverse,bold
+hi Todo           guifg=#000000 guibg=NONE gui=inverse,bold
 hi Type           guifg=NONE guibg=NONE gui=NONE
 hi Underlined     guifg=NONE guibg=NONE gui=underline
 

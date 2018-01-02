@@ -28,7 +28,7 @@ let g:colors_name = "Jumper (rainglow)"
 
 hi Cursor         guifg=#222a2a guibg=#f8f8f0 gui=NONE
 hi Visual         guifg=#ffffff guibg=#36a595 gui=NONE
-hi CursorLine     guifg=NONE guibg=#2f3a3a gui=NONE
+hi CursorLine     guifg=NONE guibg=#293232 gui=NONE
 hi CursorLineNr   guifg=#667f7f guibg=#121616 gui=NONE
 hi CursorColumn   guifg=NONE guibg=#121616 gui=NONE
 hi ColorColumn    guifg=NONE guibg=#0b0e0e gui=NONE
@@ -64,7 +64,7 @@ hi Label          guifg=#63a5a5 guibg=NONE gui=NONE
 hi NonText        guifg=#2c3535 guibg=#1d2424 gui=NONE
 hi Number         guifg=#4eadad guibg=NONE gui=NONE
 hi Operator       guifg=#8da0a0 guibg=NONE gui=NONE
-hi PreProc        guifg=#668787 guibg=NONE gui=NONE
+hi PreProc        guifg=#000000 guibg=NONE gui=NONE
 hi Special        guifg=#8da0a0 guibg=NONE gui=NONE
 hi SpecialKey     guifg=#8da0a0 guibg=#36a595 gui=NONE
 hi Statement      guifg=#e08e4c guibg=NONE gui=NONE
@@ -72,7 +72,7 @@ hi StorageClass   guifg=#f6da40 guibg=NONE gui=NONE
 hi String         guifg=#63a5a5 guibg=NONE gui=NONE
 hi Tag            guifg=#36a595 guibg=NONE gui=NONE
 hi Title          guifg=#36a595 guibg=NONE gui=bold
-hi Todo           guifg=#668787 guibg=NONE gui=inverse,bold
+hi Todo           guifg=#000000 guibg=NONE gui=inverse,bold
 hi Type           guifg=NONE guibg=NONE gui=NONE
 hi Underlined     guifg=NONE guibg=NONE gui=underline
 

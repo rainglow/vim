@@ -28,7 +28,7 @@ let g:colors_name = "Heroku Light (rainglow)"
 
 hi Cursor         guifg=#f7f7fc guibg=#222222 gui=NONE
 hi Visual         guifg=#ffffff guibg=#7873ae gui=NONE
-hi CursorLine     guifg=NONE guibg=#e1e1e8 gui=NONE
+hi CursorLine     guifg=NONE guibg=#ffffff gui=NONE
 hi CursorLineNr   guifg=#ffffff guibg=#ddddf2 gui=NONE
 hi CursorColumn   guifg=NONE guibg=#ddddf2 gui=NONE
 hi ColorColumn    guifg=NONE guibg=#d2d2ee gui=NONE
@@ -64,7 +64,7 @@ hi Label          guifg=#6daf36 guibg=NONE gui=NONE
 hi NonText        guifg=#000000 guibg=#f0f0f9 gui=NONE
 hi Number         guifg=#6daf36 guibg=NONE gui=NONE
 hi Operator       guifg=#1b1b24 guibg=NONE gui=NONE
-hi PreProc        guifg=#5d5d76 guibg=NONE gui=NONE
+hi PreProc        guifg=#000000 guibg=NONE gui=NONE
 hi Special        guifg=#1b1b24 guibg=NONE gui=NONE
 hi SpecialKey     guifg=#1b1b24 guibg=#585480 gui=NONE
 hi Statement      guifg=#7873ae guibg=NONE gui=NONE
@@ -72,7 +72,7 @@ hi StorageClass   guifg=#7873ae guibg=NONE gui=NONE
 hi String         guifg=#6daf36 guibg=NONE gui=NONE
 hi Tag            guifg=#585480 guibg=NONE gui=NONE
 hi Title          guifg=#585480 guibg=NONE gui=bold
-hi Todo           guifg=#5d5d76 guibg=NONE gui=inverse,bold
+hi Todo           guifg=#000000 guibg=NONE gui=inverse,bold
 hi Type           guifg=NONE guibg=NONE gui=NONE
 hi Underlined     guifg=NONE guibg=NONE gui=underline
 
