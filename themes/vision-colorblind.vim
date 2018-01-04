@@ -64,7 +64,7 @@ hi Label          guifg=#0b6aa5 guibg=NONE gui=NONE
 hi NonText        guifg=#999999 guibg=#000000 gui=NONE
 hi Number         guifg=#0b6aa5 guibg=NONE gui=NONE
 hi Operator       guifg=#ffffff guibg=NONE gui=NONE
-hi PreProc        guifg=#000000 guibg=NONE gui=NONE
+hi PreProc        guifg=#7b7b7b guibg=NONE gui=NONE
 hi Special        guifg=#ffffff guibg=NONE gui=NONE
 hi SpecialKey     guifg=#ffffff guibg=#81209e gui=NONE
 hi Statement      guifg=#f87856 guibg=NONE gui=NONE
@@ -72,7 +72,7 @@ hi StorageClass   guifg=#1ba2f7 guibg=NONE gui=NONE
 hi String         guifg=#0b6aa5 guibg=NONE gui=NONE
 hi Tag            guifg=#81209e guibg=NONE gui=NONE
 hi Title          guifg=#81209e guibg=NONE gui=bold
-hi Todo           guifg=#000000 guibg=NONE gui=inverse,bold
+hi Todo           guifg=#7b7b7b guibg=NONE gui=inverse,bold
 hi Type           guifg=NONE guibg=NONE gui=NONE
 hi Underlined     guifg=NONE guibg=NONE gui=underline
 
