@@ -27,7 +27,9 @@ These themes are in BETA. Vim is tricky to theme, so please report anything odd!
 
 ### Manual Installation
 
-Clone the repository and copy the contents of the themes directory into `~/.vim/colors`.
+Clone the repository and copy the contents of the 'colors' directory into `~/.vim/colors` or use a plugin
+manager like [Plug][https://github.com/junegunn/vim-plug] or [Vundle][https://github.com/VundleVim/Vundle.vim] and add `"rainglow/vim"`
+as a plugin.
 
 Use the following examples for theme switching by name:
 
