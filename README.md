@@ -10,12 +10,14 @@ Rainglow is a collection of color themes for a number of different editors and p
 
 To show support for the project, you can do any (or many!) of the following:
 
+- [Wear a theme.](https://teespring.com/stores/rainglow)
 - [Star the repository.](https://github.com/rainglow/vim/stargazers)
 - [Follow me on twitter, and say hi!](https://twitter.com/daylerees)
 - [Share on refind.](https://refind.com/daylerees?invite=9125a6f6a7)
 - [Share on product hunt.](https://www.producthunt.com/)
 - [Buy my books!](https://daylerees.com/books/)
 - [Donate via PayPal.](https://paypal.me/daylerees)
+- [Donate via Monzo.](https://monzo.me/daylerees)
 
 ### IMPORTANT
 
