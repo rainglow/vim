@@ -13,14 +13,14 @@
 "# Settings.                            #
 "########################################
 
-set background=dark
+set background=light
 highlight clear
 
 if exists("syntax_on")
   syntax reset
 endif
 
-let g:colors_name = "Friction Light (rainglow)"
+let g:colors_name = "friction-light"
 
 "########################################
 "# Base Colors.                         #
@@ -90,3 +90,14 @@ hi xmlEndTag         guifg=#8d89a5 guibg=NONE gui=NONE
 "# Light Theme Overrides                #
 "########################################
 
+hi CursorLineNr   guifg=#808080 guibg=#cccccc gui=NONE
+hi ColorColumn    guifg=NONE guibg=#ffffff gui=NONE
+hi LineNr         guifg=#b3b3b3 guibg=#f2f2f2 gui=NONE
+hi phpMethodsVar  guifg=#070708
+hi DiffAdd        guifg=#d9d9d9 guibg=#59a50b gui=bold
+hi DiffDelete     guifg=#d9d9d9 guibg=#a30e29 gui=NONE
+hi DiffChange     guifg=#d9d9d9 guibg=#c48405 gui=NONE
+hi DiffText       guifg=#d9d9d9 guibg=#c48405 gui=bold
+hi ErrorMsg       guifg=#d9d9d9 guibg=#a30e29 gui=NONE
+hi WarningMsg     guifg=#d9d9d9 guibg=#c48405 gui=NONE
+hi Folded         guifg=#44424d guibg=#e6e6e6 gui=NONE

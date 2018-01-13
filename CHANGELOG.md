@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.5.4 | 2018.01.13
+
+Fix theme naming issue.
+
 ## 1.5.3 | 2018.01.06
 
 Make the repo compatible as a plugin.

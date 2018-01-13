@@ -20,7 +20,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let g:colors_name = "Loyal (rainglow)"
+let g:colors_name = "loyal"
 
 "########################################
 "# Base Colors.                         #

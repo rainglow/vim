@@ -20,7 +20,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let g:colors_name = "Otakon Contrast (rainglow)"
+let g:colors_name = "otakon-contrast"
 
 "########################################
 "# Base Colors.                         #

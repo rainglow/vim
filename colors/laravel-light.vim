@@ -20,7 +20,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let g:colors_name = "Laravel Light (rainglow)"
+let g:colors_name = "laravel-light"
 
 "########################################
 "# Base Colors.                         #
