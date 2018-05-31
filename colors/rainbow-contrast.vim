@@ -123,6 +123,8 @@ hi  link                   jsFlowTypeValue       Type
 
 hi pythonAttribute guifg=#b3cc57 guibg=NONE gui=NONE
 
+hi  rustSelf               guifg=#c78feb         guibg=NONE     gui=italic
+
 "########################################
 "# Plugins                              #
 "########################################
