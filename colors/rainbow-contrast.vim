@@ -80,7 +80,7 @@ hi  Function      guifg=#ffbe40  guibg=NONE     gui=NONE
 
 hi  Constant      guifg=NONE     guibg=NONE     gui=NONE
 hi  Identifier    guifg=#f4f7fa  guibg=NONE     gui=NONE
-hi  NonText       guifg=#566a7e  guibg=#111314  gui=NONE
+hi  NonText       guifg=#566a7e  guibg=NONE     gui=NONE
 
 " hi Noise  guifg=#3fb4c5 guibg=NONE gui=NONE
 hi  Operator      guifg=#3fb4c5  guibg=NONE     gui=NONE
