@@ -40,12 +40,6 @@ hi  ColorColumn   guifg=NONE     guibg=#000000  gui=NONE
 hi  VertSplit     guifg=#2d3136  guibg=#2d3136  gui=NONE
 hi  LineNr        guifg=#4e555e  guibg=#0a0b0c  gui=NONE
 
-" Applied in ~/.vimrc
-" hi  GitGutterAddDefault    guifg=#a7da1e guibg=#0a0b0c
-" hi  GitGutterChangeDefault guifg=#f7b83d guibg=#0a0b0c
-" hi  GitGutterDeleteDefault guifg=#e61f44 guibg=#0a0b0c
-" hi  SignColumn             guibg=#0a0b0c
-
 hi  StatusLine    guifg=#c7d0d9  guibg=#0a0b0c  gui=bold
 hi  StatusLineNC  guifg=#c7d0d9  guibg=#0a0b0c  gui=NONE
 hi  Pmenu         guifg=#c7d0d9  guibg=#0a0b0c  gui=NONE
@@ -113,9 +107,10 @@ hi  xmlEndTag              guifg=#b3cc57         guibg=NONE     gui=NONE
 hi  jsClassDefinition      guifg=NONE            guibg=NONE     gui=NONE
 hi  jsThis                 guifg=#c78feb         guibg=NONE     gui=italic
 hi  jsObject               guifg=#b3cc57         guibg=NONE     gui=NONE
-"hi                     jsVariableDef         guifg=#b3cc57  guibg=NONE  gui=NONE
 hi  jsDestructuringBraces  guifg=#3fb4c5         guibg=NONE     gui=NONE
 
+hi  link                   jsModuleKeyword       Identifier
+hi  link                   jsVariableDef         Identifier
 hi  link                   jsBraces              jsNoise
 hi  link                   jsNoise               Noise
 hi  link                   jsDestructuringBlock  jsObjectKey
@@ -127,3 +122,16 @@ hi  link                   jsFuncCall            Function
 hi  link                   jsFlowTypeValue       Type
 
 hi pythonAttribute guifg=#b3cc57 guibg=NONE gui=NONE
+
+"########################################
+"# Plugins                              #
+"########################################
+
+" Applied in ~/.vimrc
+hi  GitGutterAddDefault    guifg=#a7da1e guibg=#0a0b0c
+hi  GitGutterChangeDefault guifg=#f7b83d guibg=#0a0b0c
+hi  GitGutterDeleteDefault guifg=#e61f44 guibg=#0a0b0c
+hi  SignColumn             guibg=#0a0b0c
+
+hi NERDTreeFile guifg=#b8c3cf
+hi NERDTreeDir guifg=#ef746f
