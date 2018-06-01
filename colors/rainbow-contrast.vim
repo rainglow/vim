@@ -37,7 +37,7 @@ hi  CursorLineNr  guifg=#5c646d  guibg=#060607  gui=NONE
 hi  CursorColumn  guifg=NONE     guibg=#060607  gui=NONE
 hi  ColorColumn   guifg=NONE     guibg=#000000  gui=NONE
 
-hi  VertSplit     guifg=#2d3136  guibg=#2d3136  gui=NONE
+hi  VertSplit     guifg=#424c55  guibg=NONE     gui=NONE
 hi  LineNr        guifg=#4e555e  guibg=#0a0b0c  gui=NONE
 
 hi  StatusLine    guifg=#c7d0d9  guibg=#0a0b0c  gui=bold
