@@ -43,7 +43,7 @@ hi IncSearch      guifg=#c7d0d9 guibg=#c78feb gui=NONE
 hi Search         guifg=NONE guibg=NONE gui=underline
 hi Directory      guifg=#b3cc57 guibg=NONE gui=NONE
 hi Folded         guifg=#b8c3cf guibg=#202326 gui=NONE
-hi Normal         guifg=#ffbe40 guibg=#373c42 gui=NONE
+hi Normal         guifg=#eeeff0 guibg=#373c42 gui=NONE
 hi Boolean        guifg=#ffbe40 guibg=NONE gui=NONE
 hi Character      guifg=#c78feb guibg=NONE gui=NONE
 hi Comment        guifg=#657482 guibg=NONE gui=NONE
@@ -90,3 +90,13 @@ hi xmlEndTag         guifg=#b3cc57 guibg=NONE gui=NONE
 "# Light Theme Overrides                #
 "########################################
 
+"########################################
+"# Indent plugin                        #
+"########################################
+
+hi IndentLine        guifg=#b8c3cf guibg=#373c42
+
+hi GitGutterAddDefault      guifg=#a7da1e guibg=#2b2f34
+hi GitGutterChangeDefault   guifg=#ffbe40 guibg=#2b2f34
+hi GitGutterDeleteDefault   guifg=#e61f44 guibg=#2b2f34
+hi SignColumn               guibg=#2b2f34
